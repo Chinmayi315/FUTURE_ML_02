@@ -87,6 +87,4 @@ The system can be extended for real-world customer support automation.
 
 ---
 
-## 👤 Author
-**Sakhi**  
-Machine Learning Intern – Future Interns
+
